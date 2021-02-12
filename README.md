@@ -11,7 +11,7 @@ npx quick-create --template=./templates/component --destination=./src/components
 ## Install in a npm based project
 
 ```
-npm i quick-create
+npm i -D quick-create
 ```
 
 Then add a script to make creation of components easier
